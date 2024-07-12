@@ -1,0 +1,3 @@
+@echo off
+echo Starting Node.js server...
+node app.js
